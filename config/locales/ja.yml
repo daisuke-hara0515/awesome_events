@@ -1,5 +1,5 @@
 ja:
-  activerecord
+  activerecord:
     models:
       event: イベント
       attributes:
